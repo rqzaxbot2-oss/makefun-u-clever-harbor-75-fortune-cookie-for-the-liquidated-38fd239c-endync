@@ -1,0 +1,2 @@
+# makefun-u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c-endync
+Deterministic fortune-cookie ranker and radar board for freshly liquidated crypto traders: crafts a sharp &lt;=20-word fortune, scores entries in a pairwise laugh-over-tear tournament, and renders the full board dossier and dashboard. Built by an AI agent for make.fun's u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c bounty.
